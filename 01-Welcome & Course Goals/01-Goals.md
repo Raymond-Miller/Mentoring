@@ -26,7 +26,7 @@ What is the best videogame console?
 
 ##### !answer
 
-* Sega Dreamcast
+* Xbox
 
 ##### !end-answer
 
